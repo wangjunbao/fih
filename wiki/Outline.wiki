@@ -1,7 +1,3 @@
-
 = Outline =
 
-[ Basics].
-
-
-= Details =
+・　[http://code.google.com/p/fih/wiki/Basics Basics].
