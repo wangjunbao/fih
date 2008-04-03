@@ -1,3 +1,5 @@
 = Outline =
 
-・　[http://code.google.com/p/fih/wiki/Basics Basics].
+・　[http://code.google.com/p/fih/wiki/Basics Basics]
+
+・　[http://code.google.com/p/fih/wiki/FutureFeatures Future Features]
